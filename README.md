@@ -1,3 +1,6 @@
+# Sample Image
+![Screenshot of Completed Exercise](./images/sample.png)
+
 # Media Player - Kyle Take-Home
 
 Hey, thanks for taking the time to work on this exercise. We're excited to see what you come up with –
